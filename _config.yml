@@ -6,10 +6,11 @@
 # --- Required options --- #
 
 # Name of website
-title: gicLAB
+title: gicLAB @ UoG CS
+
 
 # Your name to show in the footer
-author: Glasgow Intelligent Computing Lab
+author: Glasgow Intelligent Computing Lab @  University of Glasgow CS
 
 # --- List of links in the navigation bar --- #
 
@@ -42,7 +43,7 @@ round-avatar: true
 social-network-links:
   #email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  #facebook: deanattali
   github: gicLAB
   twitter: gic_lab
 #  medium: yourname
