@@ -16,6 +16,7 @@ subtitle:
 **[Perry Gibson](https://gibsonic.org)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">  .  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
     Flavour text
+    
 **Jude Haris** <br> <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;"> Develops machine learning to predict those at risk of sudden death and other catastrophic events using electronic health records and focusing on cardiovascular disease.  
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px">[@jones_yola](https://twitter.com/jones_yola)
 

@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ## Location
-gicLab 
+gicLab  
 School of Computing Science  
 University of Glasgow  
 Glasgow G12 8RZ  
