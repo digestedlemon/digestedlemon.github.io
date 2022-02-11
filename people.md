@@ -10,6 +10,7 @@ subtitle:
 **[Dr José Cano Reyes](http://www.dcs.gla.ac.uk/~josecr/)** <br> <img src="/assets/img/people/jose_small_new.png" width="100px" style="float: left; margin-right: 20px;"> Lecturer (Assistant Professor)  
   Flavour text 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@jcanore](https://twitter.com/jcanore)
+<br><br>
 <br>  
 
 ### PhD Students
@@ -22,6 +23,7 @@ Flavour text
 **Jude Haris** <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="float: left; margin-right: 20px;"> Flavor text 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@iain_with_2is](https://twitter.com/iain_with_2is)
 <br><br>
+<br>
 
 ### MSci Students
 **[Sophie Fisher](https://twitter.com/sophie_fisch)** <br> <img src="/assets/img/sophie_fischer.jpeg" width="100px" style="float: left; margin-right: 20px;"> She develops multi-modal task-oriented conversational agents with focus on supporting question answering, recommendation and social chit-chat elements. Just like her bots, she likes to talk to people. <br>
