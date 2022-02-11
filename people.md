@@ -16,11 +16,11 @@ subtitle:
 **[Perry Gibson](https://gibsonic.org)** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">  .
 Flavour text
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
-
+<br><br>
 
 **Jude Haris** <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="float: left; margin-right: 20px;"> Flavor text 
 <img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@iain_with_2is](https://twitter.com/iain_with_2is)
-    
+<br><br>
 
 ### MSci Students
 **[Sophie Fisher](https://twitter.com/sophie_fisch)** <br> <img src="/assets/img/sophie_fischer.jpeg" width="100px" style="float: left; margin-right: 20px;"> She develops multi-modal task-oriented conversational agents with focus on supporting question answering, recommendation and social chit-chat elements. Just like her bots, she likes to talk to people. <br>
