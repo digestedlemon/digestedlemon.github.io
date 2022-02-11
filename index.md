@@ -1,6 +1,6 @@
 ---
 layout: home
-title: gecLAB
+title: gicLAB
 subtitle: Glasgow Intelligent Computing Lab
 ---
 
