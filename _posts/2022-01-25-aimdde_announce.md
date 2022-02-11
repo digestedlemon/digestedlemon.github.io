@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "gicLAB receives funding for BonsAPPs AIMDDE project"
+thumbnail-img: /assets/img/eu_bonsapps.png
 ---
 
 *gicLAB is undertaking a 2 month project for an AI in industry challenge*
