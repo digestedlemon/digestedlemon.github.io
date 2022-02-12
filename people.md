@@ -20,8 +20,21 @@ Flavour text
 <br><br>
 <br>
 
-**Jude Haris** <br> <img src="/assets/img/Iain_photo.jpeg" width="100px" style="float: left; margin-right: 20px;"> Flavor text 
-<img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@iain_with_2is](https://twitter.com/iain_with_2is)
+**Jude Haris** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">  .
+Flavour text
+<img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
+<br><br>
+<br>
+
+**Isak Bosman** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">  .
+Flavour text
+<img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
+<br><br>
+<br>
+
+**Wenhao Hu** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">  .
+Flavour text
+<img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
 <br><br>
 <br>
 
@@ -31,9 +44,12 @@ Flavour text
 <br><br> 
 <br>
 
-### Research Assistants
-**[Zay-yar Tun](https://uk.linkedin.com/in/zay-yar-tun-668411153)** <br> <img src="/assets/img/zay-yar-sm.jpeg" width="100px" style="float: left; margin-right: 20px;"> Develops new methods for improving social content discovery for the BBC's voice assistant, Beeb. 
-<br>  <br><br>
+### Post-doctoral Researchers
+**Ferheen Ayaz** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">  .
+Flavour text
+<img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
+<br><br>
+<br>
   
 ## Academic Collaborators
 - [Anton Leuski](https://ict.usc.edu/profile/anton-leuski/) - USC ICT
@@ -44,8 +60,8 @@ Flavour text
 - [Fani Deligianni](https://www.gla.ac.uk/schools/computing/staff/fanideligianni/)
 - Glasgow [Terrier Team](http://terrierteam.dcs.gla.ac.uk/)
 
-## Past Lab Members 
+<!-- ## Past Lab Members  -->
 
-### Research Interns
-- Enrico Trombetta
-- Adam Czyzewski (now @ Facebook)
+<!-- ### Research Interns -->
+<!-- - Enrico Trombetta -->
+<!-- - Adam Czyzewski (now @ Facebook) -->

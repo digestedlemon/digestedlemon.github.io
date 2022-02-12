@@ -14,4 +14,6 @@ If you're interested in collaborating on research there are opportunities for in
 
 ### BonsAPPs AIMDDE
 
-The Glasgow Intelligent Computing Lab (gicLAB) is undertaking the AIMDDE (AI-based Manufacturing Defect Detection at the Edge) research challenge (initially for two months but potentially extended to five), as part of the BonsAPPs EU’s Horizon 2020 project (https://bonsapps.eu/). The overall goal of the challenge is to produce AI models which can effectively detect defects in manufactured goods (e.g., rolled steel, or textiles), and deploy them in a constrained edge device (e.g., Nvidia AGX Xavier), such that their latency/performance would be viable in a real production environment.  Please see our blogpost, and <https://bonsapps.eu/> for details.
+The Glasgow Intelligent Computing Lab (gicLAB) was awarded funding to undertaking the AIMDDE (AI-based Manufacturing Defect Detection at the Edge) research challenge, in response to the Open Call for AI Talents of the BonsAPPs Horizon 2020 project. 
+The project will be for 2 months in the first instance with the possibility of being extended for further 3 months.
+Please [see our blogpost](../2022-01-25-aimdde_announce/), and <https://bonsapps.eu/> for details.
