@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publication: SECDA 
+title: SECDA Published at IEEE SBAC-PAD 2021 
 subtitle: Congratulations to first author Jude Haris 
 tags: [secda, fpga, computer-vision, dnn]
 ---
