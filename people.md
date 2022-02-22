@@ -45,23 +45,18 @@ Flavour text
 <br>
 
 ### Post-doctoral Researchers
-**Ferheen Ayaz** <br>  <img src="/assets/img/people/pg_profile.jpg" width="100px" style="float: left; margin-right: 20px;">  .
-Flavour text
-<img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@PerryGibson_](https://twitter.com/PerryGibson_)
+**[Ferheen Ayaz](https://www.linkedin.com/in/ferheen-ayaz-5631a71a7/)** <br>  <img src="/assets/img/people/Ferheen_Ayaz.jpg" width="100px" style="float: left; margin-right: 20px;">  .
+_(she/her)_ Works on optimisation and adversarial robustness of AI models, aiming for a co-optimisation strategy balancing security, compression and performance of intelligent edge IoT devices. Her research interests include cybersecurity and Tiny Machine Learning.
+<img src="/assets/img/Twitter_Logo_Blue.png" width="30px"> [@ferheenayaz](https://twitter.com/@ferheenayaz)
 <br><br>
 <br>
   
 ## Academic Collaborators
-- [Anton Leuski](https://ict.usc.edu/profile/anton-leuski/) - USC ICT
-- [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/) - UCL
-- [Shahrzad Naseri](https://people.cs.umass.edu/~shnaseri/) - UMass CIIR
-- [Laura Dietz](https://www.cs.unh.edu/~dietz/) - UNH
-- [Leif Azzopardi](http://www.dcs.gla.ac.uk/~leif/) - Strathyclyde
-- [Fani Deligianni](https://www.gla.ac.uk/schools/computing/staff/fanideligianni/)
-- Glasgow [Terrier Team](http://terrierteam.dcs.gla.ac.uk/)
+- [Place Holder](https://example.com/) - University of Wherever
+
 
 <!-- ## Past Lab Members  -->
 
 <!-- ### Research Interns -->
-<!-- - Enrico Trombetta -->
-<!-- - Adam Czyzewski (now @ Facebook) -->
+<!-- - Some Guy -->
+<!-- - Someone else (now @ company) -->
